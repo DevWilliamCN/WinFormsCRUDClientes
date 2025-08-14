@@ -16,6 +16,4 @@ Durante el desarrollo, se presentó un problema relacionado con archivos tempora
 4. No modificar ni eliminar el `DbContext` ni las configuraciones de conexión, ya que están preparados para la base de datos remota.
 5. Restaurar los paquetes NuGet antes de ejecutar el proyecto por primera vez.
 
-## Autor
-
-Este proyecto fue desarrollado por el **Ingeniero en Tecnologías de la Información William Cubero Navarro**, como parte de un ejercicio práctico para demostrar conocimientos en desarrollo de aplicaciones de escritorio con .NET Framework, gestión de bases de datos remotas y uso de Entity Framework en entornos reales.
+**Ingeniero en Tecnologías de la Información William Cubero Navarro**
