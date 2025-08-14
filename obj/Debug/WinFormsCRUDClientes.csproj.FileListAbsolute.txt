@@ -1,0 +1,15 @@
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\WinFormsCRUDClientes.exe.config
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\WinFormsCRUDClientes.exe
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\WinFormsCRUDClientes.pdb
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\EntityFramework.dll
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\EntityFramework.xml
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.csproj.AssemblyReference.cache
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.Properties.Resources.resources
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.csproj.GenerateResource.cache
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.csproj.CoreCompileInputs.cache
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinForms.5356DEFF.Up2Date
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.exe
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.pdb
+C:\Users\William Cubero\source\repos\WinFormsCRUDClientes\WinFormsCRUDClientes\obj\Debug\WinFormsCRUDClientes.exe.config
